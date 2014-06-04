@@ -11,4 +11,4 @@ qUpdater is a simple, multiplatform application update tool based on [Qt](http:/
 * --Backwards compatible with Sparkle (can use the very same "appcast" RSS).--
 * --Switch beetween simple Dialog or Detailled Dialog--
 * --Automatic installation--
-* --MIT License--
+* -This projected is licensed under the terms of the [MIT](LICENSE) license.
